@@ -1,0 +1,93 @@
+/* Body Background*/
+
+body {
+    background-color: whitesmoke;
+}
+
+/* Header Bar*/
+
+header {
+    height: 130px;
+    background-color: black;
+}
+
+/* Header Bar 1 with Text Properties, color, padding and alignment */
+
+header h1 {
+    font-family: -apple-system, BlinkMacSystemFont, 'SF Hello';
+    font-size: 50px;
+    color: white;
+    padding-top: 10px;
+    text-align: center;
+}
+
+/* Header Bar 2 with Text Properties, color and alignment */
+
+header h2 {
+    font-family: -apple-system, BlinkMacSystemFont, 'SF Hello';
+    font-size: 25px;
+    margin-top: -40px;
+    text-align: center;
+    color: white;
+}
+
+/* Header Bar with Text Properties and color*/
+
+h3 {
+    font-family: -apple-system, BlinkMacSystemFont, 'SF Hello';
+    font-size: 25px;
+    color: white;
+    background-color: black;
+}
+
+/* Header Bar with Text Properties and color*/
+
+header h4 {
+    font-family: -apple-system, BlinkMacSystemFont, 'SF Hello';
+    font-size: 20px;
+    margin-top: -25px;
+    text-align: center;
+    color: white;
+}
+
+/* Paragraph and lists fonts and margins*/
+
+p, ol, ul {
+    font-family: -apple-system, BlinkMacSystemFont, 'SF Hello';
+    font-size: 15px;
+    margin-top: -10px;
+    color: black;
+}
+
+/* Image location and margins*/
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+/* unvisited link */
+
+a:link {
+    color: blue;
+}
+
+/* visited link */
+
+a:visited {
+    color: red;
+}
+
+/* mouse over link */
+
+a:hover {
+    color: green;
+}
+
+/* selected link */
+
+a:active {
+    color: purple;
+}
